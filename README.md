@@ -2,7 +2,7 @@
 
 The TweeElon Charity is an open-source project to create a [decentralized application](https://en.wikipedia.org/wiki/Decentralized_application) that automatically donates bitcoins to charity every time Elon Musk mentions `#Bitcoin` on Twitter. Additionally, each donation's transaction will store Elon Musk's tweet as a message on the Bitcoin blockchain forever.
 
-The goal of the project is to crowfund donations for charity, incentivize Elon Musk to talk about Bitcoin as a tech influencer, demonstrate the programmability of Bitcoin, and inspire similar projects in the future.
+The goal of the project is to crowdfund donations for charity, incentivize Elon Musk to talk about Bitcoin as a tech influencer, demonstrate the programmability of Bitcoin, and inspire similar projects in the future.
 
 The bitcoins will be donated to [GiveDirectly](https://www.givedirectly.org/), a nonprofit organization operating in East Africa that helps families living in extreme poverty by making unconditional cash transfers to them via mobile phone. Elon Musk and Vitalik Buterin have [already donated](https://twitter.com/elonmusk/status/1359591256003854336) cryptocurrencies to GiveDirectly in the past.
 ![Elon Musk and Vitalik Buterin donating to GiveDirectly](images/givedirectly_tweet.png)
