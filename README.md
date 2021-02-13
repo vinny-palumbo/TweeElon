@@ -1,6 +1,6 @@
 # The TweeElon Charity
 
-The TweeElon Charity is an open-sourced project to create a [decentralized application](https://en.wikipedia.org/wiki/Decentralized_application) that automatically donates bitcoins to charity every time Elon Musk mentions `#Bitcoin` on Twitter. Additionally, each donation's transaction will store Elon Musk's tweet as a message on the Bitcoin blockchain forever.
+The TweeElon Charity is an open-source project to create a [decentralized application](https://en.wikipedia.org/wiki/Decentralized_application) that automatically donates bitcoins to charity every time Elon Musk mentions `#Bitcoin` on Twitter. Additionally, each donation's transaction will store Elon Musk's tweet as a message on the Bitcoin blockchain forever.
 
 The goal of the project is to crowfund donations for charity, incentivize Elon Musk to talk about Bitcoin as a tech influencer, demonstrate the programmability of Bitcoin, and inspire similar projects in the future.
 
