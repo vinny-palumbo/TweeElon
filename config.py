@@ -18,7 +18,7 @@ params = {
     "DEAFULT_MESSAGE_SUFFIX": ' #TweeElon',
 
     # bitcoin private key of sending wallets in WIF format
-    "TEST_SENDING_WALLET_WIF": 'cV8Ga32esY2KncRbHjCJw84JZqt1HS722wFZVNWixHkgxyNdTJJd', 
+    "TEST_SENDING_WALLET_WIF": 'cNzmDcbV3q917LpzK3zTwgvz2qsse4CErHyWcFKuTwWAB9k9fyxD', # get bitcoins from a testnet faucet like https://bitcoinfaucet.uo1.net/send.php
     "SENDING_WALLET_WIF": '< ENTER SENDING WALLET WIF HERE >', # need to be decentralized so nobody can steal the coins
 
     # bitcoin public keys of receiving wallets
